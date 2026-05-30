@@ -44,7 +44,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/abhay18s" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/_abhay18s" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32785313/abhay-upadhyay?tab=profile" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay18s&show_icons=true&locale=en&layout=compact" alt="abhay18s" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/abhay18s">
