@@ -18,12 +18,12 @@
 ## Connect with Me
 
 <p align="left">
+  <a href="https://linkedin.com/in/abhay18s" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+  
 <a href="https://twitter.com/upadhyayab66055" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/abhay18s" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
 <a href="https://stackoverflow.com/users/32785313/abhay-upadhyay?tab=profile" target="_blank">
