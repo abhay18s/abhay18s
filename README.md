@@ -5,16 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=abhay18s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ## About Me
 
-* B.Tech CSE - AI & ML student
-* Focused on Machine Learning and software development
-* Building backend applications with Java and Spring Boot
-* Developing Android applications using Kotlin and Android Studio
-* Practicing Data Structures & Algorithms with Java
-* Interested in building practical AI-powered software solutions
+* Machine Learning and Data Science
+* Java and Spring Boot
+* Android development with Kotlin
+* Data Structures & Algorithms
+* Backend development and databases
 
 ---
 
@@ -140,10 +137,6 @@
 <a href="https://developer.android.com/studio" target="_blank">
 <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg" alt="Android Studio" width="40" height="40"/>
 </a>
-
-<a href="https://kotlinlang.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-</a>
 </p>
 
 ### Web Development
@@ -166,7 +159,7 @@
 
 ## Projects
 
-Projects are currently private.
+Private
 
 ---
 
