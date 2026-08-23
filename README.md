@@ -7,26 +7,26 @@
 
 ## About Me
 
-* Machine Learning and Data Science
-* Java and Spring Boot
-* Android development with Kotlin
-* Data Structures & Algorithms
-* Backend development and databases
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Machine+Learning+and+Data+Science;Java+and+Spring+Boot;Android+development+with+Kotlin;Data+Structures+%26+Algorithms;Backend+development+and+databases" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/abhay18s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
   </a>
   <a href="https://twitter.com/upadhyayab66055" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://cdn.simpleicons.org/x/000000" alt="Twitter" width="32" height="32"/>
   </a>
   <a href="https://stackoverflow.com/users/32785313/abhay-upadhyay?tab=profile" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" width="32" height="32"/>
   </a>
   <a href="https://instagram.com/_abhay18s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32"/>
   </a>
 </p>
 
@@ -138,11 +138,11 @@ Private
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay18s&show_icons=true&hide_border=true&rank_icon=github" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhay18s&show_icons=true&hide_border=true&rank_icon=github&count_private=true&cache_seconds=86400" width="400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay18s&layout=compact&hide_border=true" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay18s&layout=compact&hide_border=true&cache_seconds=86400" width="400" alt="Top Languages" />
 </p>
 
 ## Support
