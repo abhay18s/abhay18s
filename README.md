@@ -143,7 +143,7 @@ Private
 ## Support
 
 <p>
-  <a href="https://www.buymeacoffee.com/abhay18s">
+  <a href="https://www.buymeacoffee.com/abhay18s" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="140" alt="Buy Me a Coffee"/>
   </a>
 </p>
