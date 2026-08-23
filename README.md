@@ -7,17 +7,15 @@
 
 ## About Me
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Machine+Learning+and+Data+Science;Java+and+Spring+Boot;Android+development+with+Kotlin;Data+Structures+%26+Algorithms;Backend+development+and+databases" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=Machine+Learning+and+Data+Science;Java+and+Spring+Boot;Android+development+with+Kotlin;Data+Structures+%26+Algorithms;Backend+development+and+databases" alt="Typing SVG" />
 </p>
 
 ## Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/abhay18s" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
   <a href="https://twitter.com/upadhyayab66055" target="_blank">
     <img src="https://cdn.simpleicons.org/x/000000" alt="Twitter" width="32" height="32"/>
@@ -138,11 +136,8 @@ Private
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay18s&show_icons=true&hide_border=true&rank_icon=github&count_private=true&cache_seconds=86400" width="400" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay18s&layout=compact&hide_border=true&cache_seconds=86400" width="400" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhay18s&show_icons=true&hide_border=true&rank_icon=github&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhay18s&layout=compact&hide_border=true" width="38%" alt="Top Languages" />
 </p>
 
 ## Support
