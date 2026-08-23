@@ -136,8 +136,8 @@ Private
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=abhay18s&show_icons=true&hide_border=true&rank_icon=github&count_private=true&hide=issues&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=C9D1D9&border_color=30363D" width="48%" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhay18s&layout=compact&hide_border=true&hide_progress=true&bg_color=0D1117&title_color=0E75B6&text_color=C9D1D9&border_color=30363D" width="38%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=abhay18s&show_icons=true&hide_border=true&rank_icon=github&count_private=true&hide=issues&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=C9D1D9&border_color=30363D" width="410" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhay18s&layout=compact&hide_border=true&hide_progress=true&bg_color=0D1117&title_color=0E75B6&text_color=C9D1D9&border_color=30363D" width="320" alt="Top Languages" />
 </p>
 
 ## Support
